@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me
-Flutter developer focused on building clean and scalable mobile applications.
+Mobile developer focused on building clean and scalable mobile applications.
 
 ---
 
