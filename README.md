@@ -1,68 +1,38 @@
-# Rahma-Ashraf-Flutter-Developer-Mobile-Development-Clean-Architecture-Specialist
-Flutter Mobile Developer focused on Clean Architecture, scalable apps, and production-ready mobile solutions.
 # Hi, I'm Rahma Ashraf 👋  
 ## Flutter Mobile Developer | Clean Architecture Specialist
 
-📍 Egypt | 📱 Mobile App Developer | 🧠 Software Architecture Enthusiast  
+📍 Egypt | 📱 Mobile App Developer  
 
 ---
 
 ## 🚀 About Me
-
-I am a **Flutter Mobile Developer** focused on building scalable, maintainable, and high-performance mobile applications.  
-
-I specialize in **Clean Architecture, MVVM patterns, and Bloc/Cubit state management**, ensuring my apps are structured, testable, and production-ready.
-
-I enjoy transforming UI/UX designs into real-world applications with smooth performance and clean code practices.
+Flutter Developer focused on building clean, scalable, and maintainable mobile applications using Clean Architecture and modern state management.
 
 ---
 
-## 💼 What I Do
-
-- 📱 Develop cross-platform mobile apps using Flutter  
-- 🏗️ Apply Clean Architecture (Data / Domain / Presentation layers)  
-- ⚙️ Manage state using Bloc / Cubit  / Provider
-- 🔌 Integrate REST APIs & Firebase services  
-- 🎯 Convert UI/UX (Figma) into responsive applications  
-- 🧪 Write clean, scalable, and maintainable code  
+## 🛠️ Tech Stack
+- Flutter & Dart  
+- Clean Architecture / MVVM  
+- Bloc / Cubit  
+- REST APIs & Firebase  
+- Git & GitHub  
 
 ---
 
-## 🧠 Tech Stack
-
-**Language:** Dart  
-
-**Framework:** Flutter  
-
-**Architecture:** Clean Architecture, MVVM  
-
-**State Management:** Bloc, Cubit, Provider  
-
-**Networking:** REST APIs, Dio, HTTP  
-
-**Backend Services:** Firebase (Auth, Firestore, Storage)  
-
-**Tools:** Git, GitHub, Postman, Figma, Android Studio, VS Code  
+## 📌 Projects
+- 🏋️ Fitness App (Clean Architecture + API integration)  
+- 🛒 E-Commerce App (State management + APIs)  
+- 💬 Chat App (Firebase real-time messaging)  
 
 ---
 
-## 📌 Featured Projects
+## 📫 Contact
+- LinkedIn: YOUR_LINK  
+- Email: YOUR_EMAIL  
 
-### 🏋️ Fitness App
-- Clean Architecture implementation (Data / Domain / Presentation)
-- REST API integration for exercises
-- Scalable and modular structure
+---
 
-### 🛒 E-Commerce App
-- Product listing, cart, and checkout flow
-- Bloc state management
-- API-driven architecture
-
-### 💬 Chat App
-- Firebase Authentication & Firestore
-- Real-time messaging system
-- Optimized UI updates
-
+> “Clean code is a long-term investment.”
 ## 🎯 Currently Improving
 
 - Advanced Flutter architecture patterns  
@@ -83,4 +53,3 @@ I enjoy transforming UI/UX designs into real-world applications with smooth perf
 
 > “Clean code is not an option, it’s a standard.”
 
----
