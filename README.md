@@ -1,8 +1,5 @@
 # Hi, I'm Rahma Ashraf 👋  
 ## Flutter Mobile Developer | Clean Architecture Specialist
-
----
-
 <p align="center">
   <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Rahma" width="130" />
 </p>
