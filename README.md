@@ -5,6 +5,15 @@
 
 ---
 
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/564x/a6/04/18/a60418b2bdde122128a68f3307bc1113.jpg" 
+    width="130" 
+    alt="Rahma Ashraf"
+    style="border-radius:50%; border:2px solid #0e75b6;"
+  />
+</p>
+
 ## 🚀 About Me
 Flutter Developer focused on building clean, scalable, and maintainable mobile applications using Clean Architecture and modern state management.
 
