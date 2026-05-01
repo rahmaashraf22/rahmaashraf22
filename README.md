@@ -46,4 +46,5 @@ Mobile developer focused on building clean and scalable mobile applications.
   <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
 </p>
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=rahmaashraf22&show_icons=true)
+![Snake animation](https://github.com/YOUR_USERNAME/rahmaashraf22/blob/output/github-contribution-grid-snake.svg)
