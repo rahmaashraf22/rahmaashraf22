@@ -1,6 +1,9 @@
 # Hi, I'm Rahma Ashraf 👋  
 ## Flutter Mobile Developer | Clean Architecture Specialist
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Flutter%20Developer-green?style=for-the-badge&logo=linkedin" />
+</p>
+<p align="center">
   <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Rahma" width="130" />
 </p>
 
