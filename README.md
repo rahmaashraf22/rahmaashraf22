@@ -13,8 +13,7 @@
 </p>
 
 ## 🚀 About Me
-Flutter Developer focused on building clean, scalable mobile applications using Clean Architecture and modern state management.
----
+Mobile Developer focused on building clean and scalable mobile apps.---
 
 ## 🛠️ Tech Stack
 - Flutter & Dart  
