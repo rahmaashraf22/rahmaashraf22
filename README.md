@@ -44,7 +44,7 @@ Flutter Developer focused on building clean, scalable, and maintainable mobile a
 
 ## ⚡ Philosophy
 
-> “Clean code is not an option, it’s a standard.”
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House"
 
 ---
 
