@@ -4,14 +4,13 @@
 📍 Egypt | 📱 Mobile App Developer  
 
 ---
-
 <p align="center">
-  <img src="https://undraw.co/api/illustrations/female_avatar.svg" width="150" />
+  <img src="https://undraw.co/api/illustrations/female_avatar.svg" width="150" alt="avatar" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rahma;Flutter+Mobile+Developer;Clean+Architecture+Specialist" />
 </p>
-
 ## 🚀 About Me
 Flutter Developer focused on building clean, scalable, and maintainable mobile applications using Clean Architecture and modern state management.
 
