@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me
-Flutter Mobile Engineer focused on Clean Architecture, scalable systems, and production-ready mobile apps.
+Flutter Developer focused on building clean, scalable mobile applications using Clean Architecture and modern state management.
 ---
 
 ## 🛠️ Tech Stack
