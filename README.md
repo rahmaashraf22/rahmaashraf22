@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="https://undraw.co/api/illustrations/female_avatar.svg" width="150" />
+  <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Rahma" width="130" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rahma;Flutter+Mobile+Developer;Clean+Architecture+Specialist" />
