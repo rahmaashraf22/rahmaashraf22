@@ -6,12 +6,7 @@
 ---
 
 <p align="center">
-  <img 
-    src="https://i.pinimg.com/564x/a6/04/18/a60418b2bdde122128a68f3307bc1113.jpg" 
-    width="130" 
-    alt="Rahma Ashraf"
-    style="border-radius:50%; border:2px solid #0e75b6;"
-  />
+  <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Rahma" width="130" />
 </p>
 
 ## 🚀 About Me
