@@ -14,8 +14,7 @@
 ---
 
 ## 🚀 About Me
-Mobile developer focused on building clean and scalable mobile applications.
-
+Mobile Developer passionate about building scalable, maintainable, and user-focused applications.
 ---
 
 ## 📊 GitHub Stats
