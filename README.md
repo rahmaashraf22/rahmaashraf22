@@ -13,7 +13,8 @@
 </p>
 
 ## 🚀 About Me
-Mobile Developer focused on building clean and scalable mobile apps.---
+Mobile Developer focused on building clean and scalable mobile apps. 
+---
 
 ## 🛠️ Tech Stack
 - Flutter & Dart  
