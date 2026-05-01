@@ -4,11 +4,6 @@
 📍 Egypt | 📱 Mobile App Developer  
 
 ---
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rahmaashraf22&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
 ## 🚀 About Me
 Flutter Developer focused on building clean, scalable, and maintainable mobile applications using Clean Architecture and modern state management.
 
