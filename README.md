@@ -32,9 +32,6 @@ Flutter Developer focused on building clean, scalable, and maintainable mobile a
 
 ## 🌐 Connect With Me
 
-- 📧 Email: rahma.ashraf.awad@gmail.com  
-- 💼 LinkedIn: 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/rahma-ashraf-27311b204/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
