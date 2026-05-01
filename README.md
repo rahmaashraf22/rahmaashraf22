@@ -16,24 +16,7 @@
 ## 🚀 About Me
 Mobile developer focused on building clean and scalable mobile applications.
 
----
 
-## 🛠️ Tech Stack
-- Flutter & Dart  
-- Clean Architecture / MVVM  
-- Bloc / Cubit / Provider  
-- REST APIs & Firebase  
-- Git & GitHub  
-
----
-
-## 📌 Featured Projects
-- 🏋️ Fitness App – Clean Architecture + API integration  
-- 🛒 E-Commerce App – State management + APIs  
-- 💬 Delivery Tracking App – Firebase real-time updates  
-- 📝 Exam App – Quiz app with structured architecture  
-
----
 
 ## 🌐 Connect With Me
 
