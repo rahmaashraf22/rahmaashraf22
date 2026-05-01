@@ -26,15 +26,6 @@ Flutter Developer focused on building clean, scalable, and maintainable mobile a
 
 ---
 
-## 🎯 Currently Improving
-
-- Advanced Flutter architecture patterns  
-- Performance optimization in large-scale apps  
-- Unit testing & CI/CD pipelines  
-- Backend integration depth  
-
----
-
 ## 🌐 Connect With Me
 
 - 📧 Email: rahma.ashraf.awad@gmail.com  
