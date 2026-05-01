@@ -1,6 +1,8 @@
 # Hi, I'm Rahma Ashraf 👋  
 ## Mobile Developer | Clean Architecture Specialist
 
+---
+
 <p align="center">
   <img src="https://api.dicebear.com/7.x/avataaars/svg?seed=Rahma" width="130" />
 </p>
@@ -22,6 +24,9 @@ Mobile developer focused on building clean and scalable mobile applications.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmaashraf22&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -49,3 +54,6 @@ Mobile developer focused on building clean and scalable mobile applications.
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
 </p>
+
+---
+
