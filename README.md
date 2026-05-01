@@ -26,13 +26,6 @@ Flutter Developer focused on building clean, scalable, and maintainable mobile a
 
 ---
 
-## 📫 Contact
-- LinkedIn: YOUR_LINK  
-- Email: YOUR_EMAIL  
-
----
-
-> “Clean code is a long-term investment.”
 ## 🎯 Currently Improving
 
 - Advanced Flutter architecture patterns  
