@@ -63,16 +63,6 @@ I enjoy transforming UI/UX designs into real-world applications with smooth perf
 - Real-time messaging system
 - Optimized UI updates
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Currently Improving
 
 - Advanced Flutter architecture patterns  
@@ -85,8 +75,7 @@ I enjoy transforming UI/UX designs into real-world applications with smooth perf
 ## 🌐 Connect With Me
 
 - 📧 Email: rahma.ashraf.awad@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rahma-ashraf-27311b204/
-- 🐙 GitHub:  
+- 💼 LinkedIn: https://www.linkedin.com/in/rahma-ashraf-27311b204/  
 
 ---
 
