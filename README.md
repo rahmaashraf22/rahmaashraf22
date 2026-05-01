@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Flutter%20Developer-green?style=for-the-badge&logo=linkedin" />
 </p>
----
 
 ## 🚀 About Me
 Flutter Developer focused on building clean, scalable mobile applications using Clean Architecture and modern state management.
