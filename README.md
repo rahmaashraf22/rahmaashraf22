@@ -4,6 +4,7 @@
 📍 Egypt | 📱 Mobile App Developer  
 
 ---
+
 ## 🚀 About Me
 Flutter Developer focused on building clean, scalable, and maintainable mobile applications using Clean Architecture and modern state management.
 
