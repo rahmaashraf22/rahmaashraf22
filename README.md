@@ -19,7 +19,7 @@ Flutter Developer focused on building clean, scalable, and maintainable mobile a
 
 ---
 
-## 📌 Projects
+## 📌Featured Projects
 - 🏋️ Fitness App (Clean Architecture + API integration)  
 - 🛒 E-Commerce App (State management + APIs)  
 - 💬 Chat App (Firebase real-time messaging)  
