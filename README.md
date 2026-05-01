@@ -1,8 +1,6 @@
 # Hi, I'm Rahma Ashraf 👋  
 ## Flutter Mobile Developer | Clean Architecture Specialist
 
-📍 Egypt | 📱 Mobile App Developer  
-
 ---
 
 <p align="center">
