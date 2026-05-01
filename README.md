@@ -13,7 +13,7 @@ Flutter Developer focused on building clean, scalable, and maintainable mobile a
 ## 🛠️ Tech Stack
 - Flutter & Dart  
 - Clean Architecture / MVVM  
-- Bloc / Cubit  
+- Bloc / Cubit  / Provider
 - REST APIs & Firebase  
 - Git & GitHub  
 
