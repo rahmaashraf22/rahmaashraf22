@@ -18,16 +18,9 @@ Mobile developer focused on building clean and scalable mobile applications.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahmaashraf22&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmaashraf22&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaashraf22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
