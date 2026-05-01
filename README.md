@@ -44,11 +44,3 @@ Mobile Developer passionate about building scalable, maintainable, and user-focu
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
----
-
-## ⚡ Quote
-
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
-</p>
