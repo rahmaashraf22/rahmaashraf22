@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=0E75B6&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Rahma;Flutter+Mobile+Developer;Clean+Architecture+Specialist" 
+    src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=0E75B6&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Rahma;Mobile+Developer;Clean+Architecture+Specialist" 
   />
 </p>
 
