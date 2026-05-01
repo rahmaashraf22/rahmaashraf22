@@ -39,9 +39,12 @@ Flutter Developer focused on building clean, scalable, and maintainable mobile a
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## ⚡ Philosophy
 
 > “Clean code is not an option, it’s a standard.”
+
+---
 
