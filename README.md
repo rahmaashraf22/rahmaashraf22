@@ -15,7 +15,6 @@
 ## 🚀 About Me
 Mobile Developer focused on building clean and scalable mobile apps. 
 ---
-
 ## 🛠️ Tech Stack
 - Flutter & Dart  
 - Clean Architecture / MVVM  
