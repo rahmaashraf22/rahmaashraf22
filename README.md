@@ -29,18 +29,18 @@ Mobile Developer passionate about building scalable, maintainable, and user-focu
 
 <p align="center">
   <a href="mailto:rahma.ashraf.awad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
   </a>
 
   <a href="https://www.linkedin.com/in/rahma-ashraf-27311b204/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
 
   <a href="https://x.com/rahmaashra78788">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png"/>
   </a>
 
   <a href="https://www.youtube.com/@CodeWithRahma.a">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
 </p>
