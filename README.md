@@ -36,7 +36,7 @@ Mobile Developer passionate about building scalable, maintainable, and user-focu
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
 
-  <a href="https://x.com/rahmaashra78788">
+  <a href="https://x.com/Rahma_Ashraf_i9">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png"/>
   </a>
 
