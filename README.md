@@ -15,9 +15,7 @@
 
 ## 🚀 About Me
 Mobile Developer passionate about building scalable, maintainable, and user-focused applications.
-
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -26,6 +24,12 @@ Mobile Developer passionate about building scalable, maintainable, and user-focu
 </p>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 🌐 Connect With Me
 
