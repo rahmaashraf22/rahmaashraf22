@@ -25,23 +25,6 @@ Mobile Developer passionate about building scalable, maintainable, and user-focu
 
 ---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rahmaashraf22/rahmaashraf22/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rahmaashraf22/rahmaashraf22/output/github-snake.svg"
-  />
-
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/rahmaashraf22/rahmaashraf22/output/github-snake.svg"
-  />
-</picture>
-
 ## 🌐 Connect With Me
 
 <p align="center">
