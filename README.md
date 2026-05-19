@@ -30,7 +30,7 @@ Mobile Developer passionate about building scalable, maintainable, and user-focu
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/rahmaashraf22/rahmaashraf22/output/github-snake-dark.svg"
   />
-  
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/rahmaashraf22/rahmaashraf22/output/github-snake.svg"
